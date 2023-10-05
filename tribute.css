@@ -1,0 +1,99 @@
+*{
+    margin:0px;
+    padding:0px;
+    font-family:sans-serif;
+}
+header{
+    height:125px;
+    width:100%;
+    text-align:center;
+}
+.name{
+    text-align: center;
+    font-size:3rem;
+}
+.tag{
+    text-align:center;
+    margin-top:15px;
+    font-size:1.5rem;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+main{
+    overflow:hidden;
+    cursor: pointer;
+}
+.inspire{
+    text-align: center;
+    margin-bottom:20px;
+    font-size:1.2rem;
+}
+.paragraph{
+    margin-left:80px;
+    margin-right: 80px;
+    margin-bottom: 40px;
+    letter-spacing:0.5px;
+}
+strong{
+    margin-left:80px;
+    font-size: 1.5rem;
+}
+.order{
+    margin-top:15px;
+    margin-left:80px;
+    margin-bottom:40px;
+}
+.order li{
+    padding-bottom: 10px;
+}
+.award{
+    height:330px;
+    width:100%;
+    margin-bottom: 15px;
+}
+.list{
+    float:left;
+}
+.ramonmagsaysay{
+    float:right;
+    margin-right:300px;
+    margin-bottom:40px;
+}
+.photos{
+    height:400px;
+    width:100%;
+    display: flex;
+    padding-right: 200px;
+}
+.photo1 img{
+    margin-top:50px;
+    left:30%;
+    margin-left:100px;
+}
+.photo2 img{
+    margin-top: 50px;
+    margin-right:20px;
+}
+.bio{
+    margin-top:70px;
+    margin-right:85px;
+    letter-spacing: 1px;
+}
+.kiran{
+    display:flex;
+    height:350px;
+    width:100%;
+    margin-bottom:8px;
+}
+.saina{
+    margin-left:80px;
+    margin-right:80px;
+    letter-spacing: 1px;
+    margin-top:50px;
+}
+.family{
+    margin-right:150px;
+}
+.end p{
+    text-align: center;
+    font-size:15px;
+}
